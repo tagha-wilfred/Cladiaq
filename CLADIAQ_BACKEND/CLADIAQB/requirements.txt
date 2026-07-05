@@ -1,0 +1,10 @@
+django 
+djangorestframework
+pillow
+setuptools
+channels
+daphne
+uvicorn
+gunicorn 
+psycopg2-binary
+dj-database-url
